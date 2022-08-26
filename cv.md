@@ -1,4 +1,4 @@
-# rsschool-cv {: .blue .bold}
+# rsschool-cv
 
 # **Anastasiya Zhdanova**
 ***********
@@ -37,5 +37,5 @@ I have basic knowledge like
 
 ## Languages
 ***********
-Russian - native speaker.
-English - A2 (According to the test on training.by. B1 in process)
+* Russian - native speaker.
+* English - A2 (According to the test on training.by. B1 in process)
